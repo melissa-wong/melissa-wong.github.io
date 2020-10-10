@@ -3,7 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-<img src="/images/Comet_T3D.png" caption="Waredaca T3D 2015" width=300 align="right"> 
 
 I'm a member of the Senior Professional Staff at [The Johns Hopkins University Applied Physics Laboratory](https://www.jhuapl.edu){:target="_blank" rel="noopener"}. I've worked on a diverse set of projects including cyber operations, space situational awareness and operational testing. Many of the projects I've worked on are classified, but I do have a few [examples of my work](https://melissa-wong.github.io/projects/) I'm able to share here.
 
