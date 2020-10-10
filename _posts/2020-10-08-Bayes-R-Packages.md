@@ -2,21 +2,8 @@
 title:  "Bayes R Packages"
 date:   2020-10-08 19:54:00
 categories: bayesian rstan rstanarm rethinking
+toc: true
 ---
-
-  - [Introduction](#introduction)
-  - [Approach](#approach)
-  - [Setup Environment](#setup-environment)
-  - [Define the Model](#define-the-model)
-  - [Package rstanarm](#package-rstanarm)
-      - [Default Priors](#default-priors)
-      - [User-Specified Priors](#user-specified-priors)
-  - [Pacakge rethinking](#package-rethinking)
-      - [Original data](#original-data)
-      - [Standardized data](#standardized-data)
-  - [Package rstan](#package-rstan)
-      - [Original Data](#original-data-1)
-  - [Summary](#summary)
 
 # Introduction
 

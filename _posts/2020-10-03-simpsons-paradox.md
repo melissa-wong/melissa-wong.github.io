@@ -2,6 +2,7 @@
 excerpt_separator: "<!--more-->"
 title:  "Simpson's Paradox"
 date:   2020-10-03
+toc: true
 categories: DAGs causal
 ---
 
