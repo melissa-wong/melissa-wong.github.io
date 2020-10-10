@@ -9,7 +9,7 @@ When I first learned about Simpson's paradox, the definition was straightforward
 
 <!--more-->
 
-This intent of this post is to illustrate there is more to understanding and untangling Simpson's paradox beyond what is often covered in an intro stats course (especially if that course is focused on designed experiments vs. observational studies). Two great references for a thorough introduction to causal inference are Chapters 5 \& 6 of McElreath's", [Statistical Rethinking](https://www.routledge.com/Statistical-Rethinking-A-Bayesian-Course-with-Examples-in-R-and-STAN/McElreath/p/book/9780367139919), and Pearl, et al's [Causal Inference in Statistics: A Primer](https://www.wiley.com/en-us/Causal+Inference+in+Statistics%3A+A+Primer-p-9781119186847).
+This intent of this post is to illustrate there is more to understanding and untangling Simpson's paradox beyond what is often covered in an intro stats course (especially if that course is focused on designed experiments vs. observational studies). Two great references for a thorough introduction to causal inference are Chapters 5 & 6 of McElreath's", [Statistical Rethinking](https://www.routledge.com/Statistical-Rethinking-A-Bayesian-Course-with-Examples-in-R-and-STAN/McElreath/p/book/9780367139919){:target="_blank" rel="noopener"}, and Pearl, et al's [Causal Inference in Statistics: A Primer](https://www.wiley.com/en-us/Causal+Inference+in+Statistics%3A+A+Primer-p-9781119186847){:target="_blank" rel="noopener"}.
 
 ## Include the Covariate
 

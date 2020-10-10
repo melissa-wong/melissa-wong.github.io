@@ -81,7 +81,7 @@ rather than repeating multiple times here.
 
 Some basic R environment setup
 
-```{r}
+``` r
 rm(list=ls())
 
 library(tidyverse)
