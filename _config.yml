@@ -86,7 +86,7 @@ footer:
 #      url: "https://twitter.com/"
     - label: "LinkedIn"
       icon: "fab fa-linked-in"
-      url: "https://linkedin.com/{{site.linkedin_username}}/
+      url: "https://linkedin.com/{{site.linkedin_username}}/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/{{site.github_username}}"
