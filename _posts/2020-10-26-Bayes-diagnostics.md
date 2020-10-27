@@ -1,5 +1,5 @@
 ---
-title:  "Bayes R Packages"
+title:  "Bayes R Diagnostics"
 date:   2020-10-26 20:35:00
 categories: bayesian rstan rstanarm rethinking
 toc: true
