@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title:  
-email: melissa.wong@aggienetwork.com
+email: melissa.wong.stats@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome!  I'm a Test & Evaluation Statistician at The MITRE Corporation
   and a recent graduate from Texas A&M.  My professional interests are in Bayesian methods
