@@ -16,9 +16,9 @@
 title:  
 email: melissa.wong@aggienetwork.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome!  I'm a Senior Engineer at The Johns Hopkins Univeristy Applied Physics Laboratory
-  and a recent graduate from Texas A&M.  My professional interests are in Bayesian methods,
-  causal inference and decision making under uncertainty.
+  Welcome!  I'm a Test & Evaluation Statistician at The MITRE Corporation
+  and a recent graduate from Texas A&M.  My professional interests are in Bayesian methods
+  and applications to T&E.
 ##twitter_username: username
 github_username: melissa-wong
 linkedin_username: melissa-wong-b36a095
@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Melissa Wong"
   avatar : "/images/Comet_T3D.png"
-  bio    : "Sr. Engineer, The Johns Hopkins University Applied Physics Laboratory"
+  bio    : "Test & Evaluation Statistican, The MITRE Corporation"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
